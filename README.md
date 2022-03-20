@@ -17,9 +17,9 @@ Con el presente scrapeo analizaremos la valoración de los clientes, las estrell
 ### DESCRIPCIÓN DEL PRODUCTO
 La camiseta de analista de negocios "Funny Got Data MIS Data Systems" es una camiseta divertida perfecta para personas interesadas en MIS, sistemas de datos, TI, consultoría. Importado. Disponible para hombres, mujeres y niños y en colores sólidos: 100% Algodón; Gris jaspeado: 90% Algodón, 10% Poliéster; Todos los demás jaspeados: 50% Algodón, 50% Poliéster. Producto en amazon.com desde Julio 18, 2018 y fabricado por MIS Business & Data Analyst Got Data Designs.
 ### ALCANCES
-Presentamos 2 archivos.ipynb con los códigos que nos permitan llegar al bojetivo de este trabajo.
+Presentamos 2 archivos.ipynb con los códigos que nos permitan llegar al objetivo de este trabajo.
 1. TRABAJO FINAL.ipynb
-2. ANALISIS ESTADÍSTICO.ipynb
+2. RESULTADO.ipynb
 
 Además un archivo.csv con los resultados obtenidos por el web scraping.
 1. RESULTADOS.csv
