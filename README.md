@@ -22,7 +22,7 @@ Presentamos 2 archivos.ipynb con los códigos que nos permitan llegar al objetiv
 2. RESULTADO.ipynb
 
 Además un archivo.csv con los resultados obtenidos por el web scraping.
-1. RESULTADOS.csv
+1. amazon_reviews.csv
 
 ### LIMITACIONES
 Al momento de hacer el web scraping de las reseñas de la camiseta "Funny Got Data MIS Data Systems" de Amazon, nos encontramos con pocos resultados, esto nos limitó al desarrollo de análisis ya que contabamos con solo 2 reseñas de los clientes.
